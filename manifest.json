@@ -1,0 +1,17 @@
+{
+  "domain": "vacances",
+  "name": "Vacances scolaires FR",
+  "version": "0.0.1",
+  "codeowners": [
+    "@lalexdotcom"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/lalexdotcom/ha-vacances",
+  "homekit": {},
+  "iot_class": "cloud_polling",
+  "quality_scale": "bronze",
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": []
+}
